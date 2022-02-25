@@ -1,7 +1,4 @@
-# lionelE3.io
-E3
- 
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
